@@ -163,7 +163,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.HamchiGamingLTD.OpenCraftWorld
+    Android: com.NewzGamingLTD.OpenCraftWorld
     iPhone: com.DeafaultCOmapnyyy.Mini-Open-Block-World
   buildNumber:
     Standalone: 0
